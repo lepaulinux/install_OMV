@@ -1,0 +1,22 @@
+1 - Create the sdcard
+2 - update the OS and change the passwd
+3 - Install the Open Media Vault
+4 - Change the General settings
+	Auto Login
+	Password
+	change the port number if necessary
+5 - Time Zone
+6 - Hostname
+7 - Network Ip address
+8- Update Management
+	Install updates
+8.1 - Install Plugin
+	Fail2Ban - plugin		
+9 - Disks - Format
+10 - File System - add the partition 
+11 - Shared folders - Create a folder to be shared
+12 - SMB - Windows file share
+13 - OMV - Extras - Install docker
+14 - Install Porteiner
+
+
